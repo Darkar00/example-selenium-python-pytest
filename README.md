@@ -1,5 +1,10 @@
-# Applitools Example: Selenium in Python with pytest
+# This is a visual test using Applitools Eyes on the Saleor Test demo website.
+[Eyes can be found here.](https://applitools.com/platform/eyes/)
+NOTE: API key from Applitools is needed to run the tests properly. You can either get one by creating
+an Applitools Eyes account or by messaging me for mine. - Jacob
 
+## Original Text: 
+# Applitools Example: Selenium in Python with pytest
 This is the example project for the [Selenium Python pytest tutorial](https://applitools.com/tutorials/quickstart/web/selenium/python).
 It shows how to start automating visual tests
 with [Applitools Eyes](https://applitools.com/platform/eyes/)
